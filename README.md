@@ -2,7 +2,7 @@
 Small script to monitor processor frequency and temperature on Raspberry Pis
 
 # Installation
-1. Download release / clone repository:<BR>
+1. [Download release](https://github.com/Vegz78/temp_surv/releases/tag/v.1) / clone repository:<BR>
 ```git clone https://github.com/Vegz78/temp_surv```
 2. Make executable in whatever folder you choose to store `temp_surv.sh` in:<BR>
 ```(sudo) chmod 755 temp_surv.sh```
