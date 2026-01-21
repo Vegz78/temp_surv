@@ -10,3 +10,5 @@ Small script to monitor processor frequency and temperature on Raspberry Pis
 # Usage
 ```./temp_surv.sh``` if you're in the same folder as temp_surv.sh<BR>
 ```temp_surv.sh``` if temp_surv.sh is in your path, e.g. stored in /usr/bin
+
+Exit script via `CTRL+C`
